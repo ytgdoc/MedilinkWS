@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Disk F\LinkSoft\Publish WebSite\MedilinkWS</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>01/20/2015 19:04:40</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>08/12/2015 16:15:53</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.UI.Combined.dll">
+      <publishTime>08/12/2015 16:15:53</publishTime>
+    </File>
+    <File Include="bin/DatabaseWareHouse.dll">
+      <publishTime>03/03/2015 17:20:01</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Data.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:13</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Office.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:26</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.PivotGrid.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:44</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Printing.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:27</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.RichEdit.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:45</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Spreadsheet.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:46</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Utils.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:33</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Utils.v13.1.UI.resources.dll">
+      <publishTime>08/04/2015 08:31:34</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.Xpo.v13.1.resources.dll">
+      <publishTime>07/23/2015 17:27:51</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.XtraBars.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:40</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.XtraCharts.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:40</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.XtraCharts.v13.1.Wizard.resources.dll">
+      <publishTime>08/04/2015 08:31:40</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.XtraEditors.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:43</publishTime>
+    </File>
+    <File Include="bin/de/DevExpress.XtraGrid.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:43</publishTime>
+    </File>
+    <File Include="bin/DevExpress.BonusSkins.v13.1.dll">
+      <publishTime>08/04/2015 08:31:33</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Charts.v13.1.Core.dll">
+      <publishTime>08/04/2015 08:31:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.CodeParser.v13.1.dll">
+      <publishTime>07/23/2015 17:27:41</publishTime>
+    </File>
+    <File Include="bin/DevExpress.CodeRush.Common.dll">
+      <publishTime>04/13/2009 07:03:53</publishTime>
+    </File>
+    <File Include="bin/DevExpress.CodeRush.Core.dll">
+      <publishTime>04/13/2009 07:04:35</publishTime>
+    </File>
+    <File Include="bin/DevExpress.CodeRush.PlugInCore.dll">
+      <publishTime>04/13/2009 07:04:46</publishTime>
+    </File>
+    <File Include="bin/DevExpress.CodeRush.StructuralParser.dll">
+      <publishTime>04/13/2009 07:04:18</publishTime>
+    </File>
+    <File Include="bin/DevExpress.CodeRush.VSCore.dll">
+      <publishTime>04/13/2009 07:03:56</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Data.v13.1.dll">
+      <publishTime>08/04/2015 08:31:13</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Images.v13.1.dll">
+      <publishTime>08/04/2015 08:31:43</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Office.v13.1.Core.dll">
+      <publishTime>08/04/2015 08:31:26</publishTime>
+    </File>
+    <File Include="bin/DevExpress.PivotGrid.v13.1.Core.dll">
+      <publishTime>08/04/2015 08:31:44</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Printing.v13.1.Core.dll">
+      <publishTime>08/04/2015 08:31:27</publishTime>
+    </File>
+    <File Include="bin/DevExpress.RichEdit.v13.1.Core.dll">
+      <publishTime>08/04/2015 08:31:45</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Sparkline.v13.1.Core.dll">
+      <publishTime>08/04/2015 08:31:32</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Spreadsheet.v13.1.Core.dll">
+      <publishTime>08/04/2015 08:31:46</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Utils.v13.1.dll">
+      <publishTime>08/04/2015 08:31:33</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Utils.v13.1.UI.dll">
+      <publishTime>08/04/2015 08:31:34</publishTime>
+    </File>
+    <File Include="bin/DevExpress.Xpo.v13.1.dll">
+      <publishTime>07/23/2015 17:27:51</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraBars.v13.1.dll">
+      <publishTime>08/04/2015 08:31:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraCharts.v13.1.dll">
+      <publishTime>08/04/2015 08:31:40</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraCharts.v13.1.Wizard.dll">
+      <publishTime>08/04/2015 08:31:41</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraEditors.v13.1.dll">
+      <publishTime>08/04/2015 08:31:43</publishTime>
+    </File>
+    <File Include="bin/DevExpress.XtraGrid.v13.1.dll">
+      <publishTime>08/04/2015 08:31:43</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.AspNet.dll">
+      <publishTime>08/12/2015 16:15:57</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.Core.dll">
+      <publishTime>08/12/2015 16:15:55</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Consumer.dll">
+      <publishTime>08/12/2015 16:15:56</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.dll">
+      <publishTime>08/12/2015 16:15:55</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.dll">
+      <publishTime>08/12/2015 16:15:56</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.dll">
+      <publishTime>08/12/2015 16:15:57</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>08/12/2015 16:15:58</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>08/12/2015 16:15:58</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Data.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:13</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Office.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:26</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.PivotGrid.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:44</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Printing.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:28</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.RichEdit.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:45</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Spreadsheet.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:46</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Utils.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:34</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Utils.v13.1.UI.resources.dll">
+      <publishTime>08/04/2015 08:31:34</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.Xpo.v13.1.resources.dll">
+      <publishTime>07/23/2015 17:27:51</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.XtraBars.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:40</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.XtraCharts.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:40</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.XtraCharts.v13.1.Wizard.resources.dll">
+      <publishTime>08/04/2015 08:31:42</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.XtraEditors.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:43</publishTime>
+    </File>
+    <File Include="bin/es/DevExpress.XtraGrid.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:43</publishTime>
+    </File>
+    <File Include="bin/FluentNHibernate.dll">
+      <publishTime>04/22/2015 20:30:56</publishTime>
+    </File>
+    <File Include="bin/Iesi.Collections.dll">
+      <publishTime>01/20/2015 19:04:40</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Data.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:14</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Office.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:26</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.PivotGrid.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:44</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Printing.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:28</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.RichEdit.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:45</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Spreadsheet.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:46</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Utils.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:34</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Utils.v13.1.UI.resources.dll">
+      <publishTime>08/04/2015 08:31:34</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.Xpo.v13.1.resources.dll">
+      <publishTime>07/23/2015 17:27:51</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.XtraBars.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:40</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.XtraCharts.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:40</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.XtraCharts.v13.1.Wizard.resources.dll">
+      <publishTime>08/04/2015 08:31:42</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.XtraEditors.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:43</publishTime>
+    </File>
+    <File Include="bin/ja/DevExpress.XtraGrid.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:43</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>06/03/2015 10:00:54</publishTime>
+    </File>
+    <File Include="bin/MDB.dll">
+      <publishTime>08/13/2015 08:59:36</publishTime>
+    </File>
+    <File Include="bin/MedilinkControl.dll">
+      <publishTime>08/07/2015 08:54:04</publishTime>
+    </File>
+    <File Include="bin/MedilinkDatabases.dll">
+      <publishTime>08/13/2015 08:59:41</publishTime>
+    </File>
+    <File Include="bin/MedilinkLicenses.dll">
+      <publishTime>08/05/2015 15:14:57</publishTime>
+    </File>
+    <File Include="bin/MedilinkWS.dll">
+      <publishTime>08/27/2015 15:18:00</publishTime>
+    </File>
+    <File Include="bin/MedilinkZip.dll">
+      <publishTime>03/13/2015 18:24:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>08/12/2015 16:16:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Membership.OpenAuth.dll">
+      <publishTime>08/12/2015 16:16:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>08/12/2015 16:15:54</publishTime>
+    </File>
+    <File Include="bin/Mono.Security.dll">
+      <publishTime>09/07/2014 20:01:23</publishTime>
+    </File>
+    <File Include="bin/NHibernate.dll">
+      <publishTime>05/14/2015 22:01:15</publishTime>
+    </File>
+    <File Include="bin/Npgsql.dll">
+      <publishTime>04/27/2015 14:57:25</publishTime>
+    </File>
+    <File Include="bin/PMS.Access.dll">
+      <publishTime>08/06/2015 14:47:49</publishTime>
+    </File>
+    <File Include="bin/PMS.BaoCao.dll">
+      <publishTime>08/24/2015 15:00:02</publishTime>
+    </File>
+    <File Include="bin/PMS.DanhMuc.Library.dll">
+      <publishTime>08/07/2015 08:54:24</publishTime>
+    </File>
+    <File Include="bin/PMS.NgonNgu.dll">
+      <publishTime>08/07/2015 08:54:08</publishTime>
+    </File>
+    <File Include="bin/PMS.ThongSo.dll">
+      <publishTime>08/07/2015 08:54:12</publishTime>
+    </File>
+    <File Include="bin/Remotion.Linq.dll">
+      <publishTime>01/20/2015 19:04:40</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Data.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:14</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Office.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:26</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.PivotGrid.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:44</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Printing.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:28</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.RichEdit.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:45</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Sparkline.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:32</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Spreadsheet.v13.1.Core.resources.dll">
+      <publishTime>08/04/2015 08:31:46</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Utils.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:34</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Utils.v13.1.UI.resources.dll">
+      <publishTime>08/04/2015 08:31:34</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.Xpo.v13.1.resources.dll">
+      <publishTime>07/23/2015 17:27:51</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.XtraBars.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:40</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.XtraCharts.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:40</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.XtraCharts.v13.1.Wizard.resources.dll">
+      <publishTime>08/04/2015 08:31:43</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.XtraEditors.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:43</publishTime>
+    </File>
+    <File Include="bin/ru/DevExpress.XtraGrid.v13.1.resources.dll">
+      <publishTime>08/04/2015 08:31:43</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>08/12/2015 16:15:54</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.WebRequest.dll">
+      <publishTime>08/12/2015 16:15:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>08/12/2015 16:15:52</publishTime>
+    </File>
+    <File Include="MedilinkService.asmx">
+      <publishTime>08/12/2015 16:51:38</publishTime>
+    </File>
+    <File Include="MedilinkWS.csproj">
+      <publishTime>08/25/2015 10:21:08</publishTime>
+    </File>
+    <File Include="MedilinkWS.csproj.user">
+      <publishTime>08/25/2015 10:21:08</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>08/27/2015 15:18:10</publishTime>
+    </File>
+    <File Include="Properties/PublishProfiles/MedilinkWS.pubxml">
+      <publishTime>08/13/2015 11:33:47</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/27/2015 15:18:08</publishTime>
+    </File>
+    <File Include="Web.Debug.config">
+      <publishTime>08/12/2015 16:15:27</publishTime>
+    </File>
+    <File Include="Web.Release.config">
+      <publishTime>08/12/2015 16:15:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
